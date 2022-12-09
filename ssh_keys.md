@@ -11,3 +11,7 @@
    chmod 600 authorized_keys
    cat rsa.pub >> authorized_keys
    ```
+7. Finally you can ssh to the system without password. Just with the ssh private key -
+   ```
+   ssh -i rsa new_user@domain_name
+   ```
