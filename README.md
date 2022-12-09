@@ -1,4 +1,4 @@
-# routine_stuff
+# Routine Stuff
 Day to day stuff for a tech guy
 
 ## Table of Contents
